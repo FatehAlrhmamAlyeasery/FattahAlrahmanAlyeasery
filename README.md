@@ -1,22 +1,22 @@
-# مرحباً! 👋
+# Welcome! 👋
 
-أنا **Fattah Alrahman Alyeasery**  
-طالب تقنية معلومات في **جامعة إب – اليمن** 🇾🇪  
-شغوف بالبرمجة، الذكاء الاصطناعي، وتطوير البرمجيات 💻🤖
-
----
-
-## 🧠 اهتماماتي ومهاراتي:
-- لغات البرمجة: **C++**، **C#**، و **Python**  
-- تنقيب البيانات وتحليلها (**Data Mining**)  
-- تطوير الويب باستخدام **HTML** و **CSS**  
-- هندسة البرمجيات (**Software Engineering**)  
-- الذكاء الاصطناعي ومعالجة اللغة الطبيعية (**AI & NLP**)  
-- التحكم في الإصدارات باستخدام **Git** و **GitHub**
+I'm **Fattah Alrahman Alyeasery**  
+An Information Technology student at **Ibb University – Yemen** 🇾🇪  
+Passionate about programming, artificial intelligence, and software development 💻🤖
 
 ---
 
-## 📫 تواصل معي:
+## 🧠 Skills and Interests:
+- Programming Languages: **C++**, **C#**, and **Python**  
+- Data Mining and Analysis  
+- Web Development using **HTML** and **CSS**  
+- Software Engineering  
+- Artificial Intelligence and Natural Language Processing (**AI & NLP**)  
+- Version Control with **Git** and **GitHub**
+
+---
+
+## 📫 Contact Me:
 
 - 📧 Email: fattahalrhmanalyeasery@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/fattahalrhmanalyeasery](https://www.linkedin.com/in/fattahalrhmanalyeasery)  
@@ -30,4 +30,4 @@
 
 ---
 
-> "التعلم المستمر هو بوابة المستقبل 💡"
+> "Continuous learning is the gateway to the future 💡"
